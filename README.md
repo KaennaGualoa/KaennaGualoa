@@ -1,8 +1,8 @@
 ### Olá Sou a Kaenna Gualoa
 
 
-- 🔭 Trabalho hoje com Analise de Sistema
-- 🌱 Estudando HTML e CSS
+- 🖥 Trabalho hoje com Analise de Sistema
+- 💻 Estudando HTML e CSS
 - ✔  Objetivo torna-me Front-end
 
 <div align="center">
