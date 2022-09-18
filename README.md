@@ -2,8 +2,7 @@
 
 
 - 🖥 Trabalho hoje com Analise de Sistema
-- 💻 Estudando HTML e CSS
-- ✔  Objetivo torna-me Front-end
+- 💻 Estudando Quality Assurance (QA)
 
 <div align="center">
   <a href="https://github.com/kaennagualoa">
