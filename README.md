@@ -1,7 +1,7 @@
 ### Olá Sou a Kaenna Gualoa
 
 
-- 🖥 Trabalho hoje com Analise de Sistema
+- 🖥 Analista de Sistema
 - 💻 Estudando Quality Assurance (QA)
 
 <div align="center">
