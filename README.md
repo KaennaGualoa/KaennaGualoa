@@ -2,7 +2,6 @@
 
 
 - 🖥 Analista de Sistema
-- 💻 Estudando Quality Assurance (QA)
 
 <div align="center">
   <a href="https://github.com/kaennagualoa">
